@@ -1,0 +1,82 @@
+{
+  "title": "Title",
+  "themeColor": "#123456",
+  "iconUrl": "https://picsum.photos/200",
+  "birthYear": 1900,
+  "profiles": [
+    {
+      "name": "Profile",
+      "items": [
+        "Name",
+        "Birthday",
+        "Address",
+        "Occupation",
+        "Hobby"
+      ]
+    }
+  ],
+  "timelines": [
+    {
+      "title": "Programming",
+      "items": [
+        {
+          "name": "Java",
+          "texts": [
+            "Many people use it"
+          ],
+          "startYear": 2010,
+          "endYear": 2020
+        },
+        {
+          "name": "Kotlin",
+          "texts": [
+            "I like it",
+            "Nice language"
+          ],
+          "startYear": 2015,
+          "endYear": 2023
+        }
+      ],
+      "memo": "I like programming",
+      "startYear": 2010,
+      "useConvertedYear": false,
+      "yearStrict": false
+    },
+    {
+      "title": "History",
+      "items": [
+        {
+          "name": "Company A",
+          "texts": [
+            "I worked there first",
+            "I was happy"
+          ],
+          "startYear": 2010,
+          "endYear": 2015
+        },
+        {
+          "name": "Company B",
+          "texts": [
+            "I worked there second",
+            "I was not happy",
+            "I was fired"
+          ],
+          "startYear": 2016,
+          "endYear": 2017
+        },
+        {
+          "name": "Company C",
+          "texts": [
+            "I worked there third",
+            "I am happy"
+          ],
+          "startYear": 2018
+        }
+      ],
+      "memo": "",
+      "startYear": 2010,
+      "useConvertedYear": false,
+      "yearStrict": true
+    }
+  ]
+}
